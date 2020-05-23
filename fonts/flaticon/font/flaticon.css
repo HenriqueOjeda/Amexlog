@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 07/02/2019 07:51
+  	Creation date: 22/05/2020 18:32
   	*/
 
 @font-face {
@@ -25,16 +25,21 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-size: 20px;
 font-style: normal;
-margin-left: 20px;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
 }
 
-.flaticon-bee:before { content: "\f100"; }
-.flaticon-hook:before { content: "\f101"; }
-.flaticon-skyline:before { content: "\f102"; }
-.flaticon-home:before { content: "\f103"; }
-.flaticon-stairs:before { content: "\f104"; }
-.flaticon-engineer:before { content: "\f105"; }
-.flaticon-engineer-1:before { content: "\f106"; }
-.flaticon-engineer-2:before { content: "\f107"; }
+.flaticon-null-1:before { content: "\f100"; }
+.flaticon-null:before { content: "\f101"; }
+.flaticon-null-2:before { content: "\f102"; }
+.flaticon-null-3:before { content: "\f103"; }
+.flaticon-null-4:before { content: "\f104"; }
+.flaticon-home:before { content: "\f105"; }
+.flaticon-urban:before { content: "\f106"; }
+.flaticon-worker:before { content: "\f107"; }
+.flaticon-construction:before { content: "\f108"; }
+.flaticon-wrench:before { content: "\f109"; }
