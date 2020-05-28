@@ -8362,8 +8362,8 @@ h1, h2, h3, h4, h5,
         bottom: 0;
         right: 0;
         width: 50%;
-        background: #fff;
-        opacity: .4; }
+        background: rgba(255, 255, 255, 0.733);
+        opacity: .6; }
         @media (min-width: 768px) {
           .owl-carousel.home-slider .slider-item .overlay {
             width: 50%; } }
